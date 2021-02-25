@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Quickly Fast Scripting Language
 
-You can use the [editor on GitHub](https://github.com/quickly-lang/quickly.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Quickly Language is a fast scripting general propurpose
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visit our Git
+https://github.com/quickly-lang
 
 ### Markdown
 
